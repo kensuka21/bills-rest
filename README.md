@@ -5,9 +5,9 @@ This is a Rest API for Bills.
 
 The following dependencies are used in this app:
 
-* Sring Boot
-* Swagger UI
-* Spring Data MongoDB
+* [Spring Boot](https://github.com/spring-projects/spring-boot)
+* [Swagger UI](https://github.com/swagger-api/swagger-ui) 
+* [Spring Data MongoDB](https://github.com/spring-projects/spring-data-mongodb)
 
 ## Build and Run
 
