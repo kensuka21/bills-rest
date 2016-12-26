@@ -1,7 +1,7 @@
 # bills-rest
 This is a Rest API for Bills.
 
-== Dependencies
+## Dependencies
 
 The following dependencies are used in this app:
 
@@ -9,7 +9,7 @@ The following dependencies are used in this app:
 * Swagger UI
 * Spring Data MongoDB
 
-== Build and Run
+## Build and Run
 
 Use Maven:
 
@@ -17,6 +17,6 @@ Use Maven:
 mvn spring-boot:run
 ```
 
-== API Documentation URL
+## API Documentation URL
 http://localhost:8080/swagger-ui.html
 
