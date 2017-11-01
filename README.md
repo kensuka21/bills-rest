@@ -1,5 +1,10 @@
 # bills-rest
+
 This is a Rest API for Bills.
+
+## Frontend application
+
+https://github.com/kensuka21/bills-angular
 
 ## Dependencies
 
@@ -20,5 +25,4 @@ mvn spring-boot:run
 ## API Documentation URL
 http://localhost:8080/swagger-ui.html
 
-## Frontend application
-https://github.com/kensuka21/bills-angular
+
