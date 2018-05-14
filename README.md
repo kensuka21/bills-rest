@@ -1,6 +1,6 @@
 # bills-rest
 
-This is a Rest API for Bills.
+This is a Rest API for Bills application.
 
 ## Frontend application
 
