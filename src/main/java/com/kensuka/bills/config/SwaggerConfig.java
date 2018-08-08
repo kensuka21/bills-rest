@@ -16,12 +16,14 @@ import static springfox.documentation.builders.RequestHandlerSelectors.*;
 @Configuration
 @EnableSwagger2
 public class SwaggerConfig {
+    private static final String API_PATH = "/api/**";
+
     @Bean
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
                 .apis(any())
-                .paths(PathSelectors.ant("/api/**"))
+                .paths(PathSelectors.ant(API_PATH))
                 .build();
     }
 }
